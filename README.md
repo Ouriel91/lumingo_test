@@ -1,7 +1,9 @@
 # cypress-test
 
 - Install NodeJS
+- Run npm init in your directory
 - Run npm install
+- Run npm install cypress
 - Write the tests in `lumigo.js` file
 - Run cypress via `npx cypress open`
 
